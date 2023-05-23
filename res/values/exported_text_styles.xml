@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="H1">
+        <item name="android:textSize">57sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="H2">
+        <item name="android:textSize">43sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="H3">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="H4">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="H5">
+        <item name="android:textSize">21sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LargeLead">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="MediumLead">
+        <item name="android:textSize">21sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="ButtonLabel">
+        <item name="android:textSize">21sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="Paragraph">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="SmallParagraph">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="TinyParagraph">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="Sale">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/advent_pro_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        typewriter font test 
+    -->
+    <style name="ImpactLabel">
+        <item name="android:textSize">13sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/impact_label_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        importing test 
+    -->
+    <style name="Poppins">
+        <item name="android:textSize">13sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Main title of the page 
+    -->
+    <style name="Title1">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        For documentation body 
+    -->
+    <style name="BodyLargeWeightRegular">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        For documentation body 
+    -->
+    <style name="BodyLargeWeightSemibold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        For documentation body 
+    -->
+    <style name="BodyLargeWeightBold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Default text for everything 
+    -->
+    <style name="BodyDefaultWeightRegular">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Default text for everything 
+    -->
+    <style name="BodyDefaultWeightSemibold">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Default text for everything 
+    -->
+    <style name="BodyDefaultWeightBold">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodySmallWeightRegular">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodySmallWeightSemibold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodySmallWeightBold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="CaptionWeightRegular">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="CaptionWeightSemibold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="CaptionWeightBold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="CaptionSmallWeightSemibold">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="CaptionSmallWeightBold">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured1LargeWeightRegular">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured1LargeWeightMedium">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured1LargeWeightBold">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured2MediumWeightRegular">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured2MediumWeightMedium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured2MediumWeightBold">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured3SmallWeightRegular">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured3SmallWeightMedium">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="🚫Featured3SmallWeightBold">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
+  
+
+  
+
+  
+
+  
+
