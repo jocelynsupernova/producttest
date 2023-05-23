@@ -1,7 +1,65 @@
 
 :root {
+    /* For text and icons. */
+    --colorForegroundNeutral: #14171f;    
+    /* For text and icons. */
+    --colorForegroundNeutralFaded: #606981;    
+    --colorForegroundPrimary: #0f62fe;    
+    --colorForegroundCritical: #cb101d;    
+    --colorForegroundPositive: #05751f;    
+    --colorForegroundUpgrade: #874ce6;    
+    --colorForegroundDisabled: #c7cddb;    
+    --colorForegroundPlaceholder: #7f8694;    
+    /* Primary background for all components or surfaces, with the exception of Page. If in doubts which to use, use this. */
+    --colorBackgroundElevationBase: #ffffff;    
+    /* Use together with Raised elevation. It will then ensure it works also in dark mode properly. */
+    --colorBackgroundElevationRaised: #ffffff;    
+    /* Use together with Overlay elevation. It will then ensure it works also in dark mode properly. */
+    --colorBackgroundElevationOverlay: #ffffff;    
+    --colorBackgroundNeutral: #182d660a;    
+    --colorBackgroundNeutralHighlighted: #182d661a;    
+    --colorBackgroundNeutralFaded: #141a2b05;    
+    --colorBackgroundPrimary: #0f62fe;    
+    /* For hover and active states */
+    --colorBackgroundPrimaryHighlighted: #004ee1;    
+    --colorBackgroundPrimaryFaded: #edf5ff;    
+    --colorBackgroundCritical: #e22c2c;    
+    --colorBackgroundCriticalHighlighted: #cb101d;    
+    --colorBackgroundCriticalFaded: #fef1f2;    
+    --colorBackgroundPositive: #118850;    
+    --colorBackgroundPositiveHighlighted: #05751f;    
+    --colorBackgroundPositiveFaded: #ebfef6;    
+    --colorBackgroundUpgrade: #874ce6;    
+    --colorBackgroundUpgradeHighlighted: #6a2bbf;    
+    --colorBackgroundUpgradeFaded: #f5f2fd;    
+    --colorBackgroundDisabled: #182d660a;    
+    --colorBackgroundDisabledFaded: #141a2b05;    
+    /* Use only for body background. If you need a background for your components, use one of the Background / Elevation styles. */
+    --colorBackgroundPage: #ffffff;    
+    /* Use only for background of the main page sections. If you need a background for your components, use one of the Background / Elevation styles. */
+    --colorBackgroundPageFaded: #fafafa;    
+    --colorBackgroundBlur: #fffffff2;    
+    --colorBorderNeutral: #c7cddb;    
+    --colorBorderNeutralFaded: #eceef3;    
+    --colorBorderPrimary: #004ee1;    
+    --colorBorderPrimaryFaded: #d0e2ff;    
+    --colorBorderCritical: #cb101d;    
+    --colorBorderCriticalFaded: #fbd5d8;    
+    --colorBorderPositive: #05751f;    
+    --colorBorderPositiveFaded: #cdedd5;    
+    --colorBorderUpgrade: #6a2bbf;    
+    --colorBorderUpgradeFaded: #e3dbfa;    
+    --colorBorderDisabled: #dfe2ea;    
+    --colorBorderFocus: #4589ff;    
+    --colorOnBackgroundNeutral: #14171f;    
+    --colorOnBackgroundPrimary: #ffffff;    
+    --colorOnBackgroundCritical: #ffffff;    
+    --colorOnBackgroundPositive: #ffffff;    
+    /* Not overriden by a theme */
+    --colorPersistentBlack: #14171f;    
+    /* Not overriden by a theme */
+    --colorPersistentWhite: #ffffff;    
     --colorNewStyle: #0e2a21;    
-    --colorDarkBlue: #9d1d79;    
     --colorPaletteGreenGreen1000: #1c4130;    
     --colorPaletteGreenGreen900: #2d6944;    
     --colorPaletteGreenGreen800: #3c884d;    
@@ -173,4 +231,5 @@
     --colorSemanticSaleSale50Background: #b51d4e;    
     --colorSemanticSaleSale30Background: #5869c1;    
     --colorSemanticSaleSaleColor: #b7b7b7;    
+    --colorDarkBlue: #9d1d79;    
 }
