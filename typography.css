@@ -1,12 +1,54 @@
 /* Main title of the page */
-.typographyTitle1 
+.typographyTypographyTitle1 
  {
   
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 640;
   font-size: 32px;
   line-height: 40px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyTitle2 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyTitle3 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyTitle4 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 16px;
+  line-height: 24px;
   letter-spacing:  
   0em;
   text-indent: 0px;
@@ -49,7 +91,7 @@
   
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 640;
   font-size: 16px;
   line-height: 24px;
   letter-spacing:  
@@ -94,7 +136,7 @@
   
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 640;
   font-size: 14px;
   line-height: 20px;
   letter-spacing:  
@@ -136,7 +178,7 @@
   
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 640;
   font-size: 12px;
   line-height: 16px;
   letter-spacing:  
@@ -178,7 +220,7 @@
   
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 640;
   font-size: 12px;
   line-height: 16px;
   letter-spacing:  
@@ -206,9 +248,65 @@
   
   font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 640;
   font-size: 10px;
   line-height: 12px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDocsDocsTitle1 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDocsDocsTitle2 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDocsDocsTitle3 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDocsDocsTitle4 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 640;
+  font-size: 16px;
+  line-height: 24px;
   letter-spacing:  
   0em;
   text-indent: 0px;
@@ -341,136 +439,24 @@
   
 }    
 
-.typographyH1 
+.typographyDocsQuote 
  {
   
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 57px;
-  line-height: 64px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyH2 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 43px;
-  line-height: 50px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyH3 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 40px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyH4 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 32px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyH5 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 21px;
-  line-height: 29px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyLargeLead 
- {
-  
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
-  line-height: 32px;
+  font-size: 20px;
+  line-height: 28px;
   letter-spacing:  
   0em;
   text-indent: 0px;
   
 }    
 
-.typographyMediumLead 
+.typographyDocsBodyDefault_ 
  {
   
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 21px;
-  line-height: 29px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyButtonLabel 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 21px;
-  line-height: 29px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyParagraph 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 26px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographySmallParagraph 
- {
-  
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -481,56 +467,56 @@
   
 }    
 
-.typographyTinyParagraph 
+.typographyDocsBodyMedium 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDocsBodyMediumBold 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyDocsBodySmall 
+ {
+  
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
-  line-height: 24px;
+  line-height: 16px;
   letter-spacing:  
   0em;
   text-indent: 0px;
   
 }    
 
-.typographySale 
+.typographyDocsDocsTitle5 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 32px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-/* typewriter font test */
-.typographyImpactLabel 
- {
-  
-  font-family: "Impact Label";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 13px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-/* importing test */
-.typographyPoppins 
- {
-  
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 13px;
+  font-weight: 640;
+  font-size: 14px;
+  line-height: 20px;
   letter-spacing:  
   0em;
   text-indent: 0px;
